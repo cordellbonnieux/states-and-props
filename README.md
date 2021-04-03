@@ -1,3 +1,11 @@
+States and props
+
+This is not really a project but more of a learning enviroment I have made to understand React. I'm creating this repo to track my progress with learning React!
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
