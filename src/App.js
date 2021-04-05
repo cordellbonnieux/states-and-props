@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import MyComponent from "./MyComponent";
+import Parent from "./Props";
 
 class App extends Component {
   constructor(props) {
@@ -30,6 +31,7 @@ class App extends Component {
         <MyComponent title="React" onButtonClicked={this.onClickBtn} />
         <button onClick={this.countUp}>Click Me Too!</button>
         <p>{this.state.count}</p>
+        <Parent />
       </div>
     );
   }
